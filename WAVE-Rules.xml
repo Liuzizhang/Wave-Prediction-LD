@@ -1,0 +1,126 @@
+<model id="{46fa69d6-9d68-48fd-aba3-86fbc940a5ae}" shortName="WAVE" formatXmlVersion="2.0" description="Model 1">
+<class id="{ff83cac3-b5ff-4d37-97a0-109a602f6e3f}" shortName="WAVE">
+<parameters/>
+<rules>
+<rule id="02839741-9702-465d-958b-f9e315023c93" shortName="EC3" relation="f65a126c-a72c-4917-8673-16be08243522" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="PF:289c8ab3-0e0a-4c21-9f34-9355362298c1;CP:a8f346b1-187d-4d3a-97fe-3ba6b8c4c645;H:a18e3180-19f8-4e05-a5eb-779ddcbb11d1"/>
+<rule id="034de8a8-5c14-46bf-9041-6f1ed88ac5eb" shortName="MEW2" relation="fb9fcfca-7a75-4941-8b9c-52c1d67ed3db" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="D:f922fcec-c4bf-401d-854a-1566d59c5f3f;H:13a56669-ea50-4e7f-9c17-7ade6ea66bab"/>
+<rule id="18b2c6ba-6e9d-4711-86c0-477c743d43b1" shortName="MEW1" relation="2d1d5d05-2a48-4681-855b-37bd8db6e458" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="WS:59c4c7e1-6ddc-4c2a-b29a-9d6330122ccc;WHGR:4a6816c4-dfd6-48c5-8df6-b4c417ba33ba"/>
+<rule id="28581197-08b3-421a-91a4-aeb9863355f4" shortName="EC5" relation="fb77ce01-41d9-4522-80e1-e514be745437" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="P2hrWH:f99f4788-4748-4bb8-b825-777799a558d4"/>
+<rule id="33f27b2e-de25-482e-84f1-967df6b2e1ff" shortName="FC3" relation="b2d1a743-62fd-4f88-b241-387a61db2151" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="FT:34d51add-532c-443d-ba27-14fd59ee3f8a"/>
+<rule id="40dbab33-353c-4a92-a8a7-783e7eeb49f5" shortName="MEW5" relation="96422f31-56df-456e-ad33-693fac1d193c" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="DD:eccc1206-26c2-4946-bf0c-ab6065c95766;WP:5863fc05-e5ae-4943-a412-8e28f629db68"/>
+<rule id="42578d74-1935-4532-a697-a5416a0122c6" shortName="VFT1" relation="43e03a25-498c-4317-b8f0-0f429eeb3f8d" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="MSL:fb4d73d8-3ba4-42e1-b774-78ee0ebde1ba;WL:a718e03d-1819-4a16-aa12-f0f5b9424336"/>
+<rule id="64366dbd-521b-4ce1-ac39-79e286055a3f" shortName="PC1" relation="c99a037a-786d-43fb-a8f4-255fa8b0af4e" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="AC:da9d77f6-4d58-414b-9e97-086d70870777"/>
+<rule id="70008986-ae67-4587-ac0f-e42197a7e7af" shortName="VFT2" relation="c0e2ed5e-4429-4fae-8f43-dbe5ca6d2589" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="TEM:1f97629b-391f-47eb-a10f-45baa1e123d5"/>
+<rule id="74340d33-9410-4a9b-92cf-35f6ad2365ae" shortName="MEW3" relation="57a64dac-9194-4bf0-add6-10073ae41ea9" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="SF:522082a4-b027-4179-a401-99c3e53e08b5"/>
+<rule id="762be9ed-8803-4539-8d61-54f980d5107a" shortName="FC1" relation="b8cca9bb-ba16-429c-beaa-52e8d2b1aa73" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="WS:20dc2138-9aa8-456f-9b05-351908ba69e6"/>
+<rule id="7d3b7483-a512-4f85-a0bf-3613fbd372d9" shortName="EC4" relation="3c4bd0e6-105b-487d-ad6a-68595d0fa9f1" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="CH:35db82b9-9491-4399-8c59-2a42e411e1ff;WSstd:6b1f4334-1989-4f55-8df1-81206ffd106b"/>
+<rule id="8f1de864-753d-4308-b3d7-caa2720c97d2" shortName="MEW4" relation="540784ed-e989-4ddd-a1f1-304a2baf6fde" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="WED:b058ba32-faa0-4c1d-9f03-300d49d17bc8;T:a819f8e2-d156-46d1-a30f-a294032713bd"/>
+<rule id="93ca17b4-ee40-416a-9ccc-9359cdff7366" shortName="FC4" relation="96974e6c-d1b8-48f5-9594-07e982cd0a68" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="EBB:f034396d-3ece-4f56-ab5e-ab6a248fbb82"/>
+<rule id="aedea2c1-8415-4095-8846-a77537e8801a" shortName="PC3" relation="79ae231c-d465-4d98-a12e-cd73eaf3f366" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="Re:95afc5fa-379a-41b1-8a71-7c2c3552637b"/>
+<rule id="c0452c4d-1c3e-46a6-ae3d-6571617f655a" shortName="EC1" relation="dc5e0695-91b8-41ff-a924-b21da924eb6b" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="H:a18e3180-19f8-4e05-a5eb-779ddcbb11d1"/>
+<rule id="c63af07f-bc49-4ae2-bedf-1eab5ec693b8" shortName="PC2" relation="cdf03862-7c67-4506-bdd3-2dcfd803e346" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="WC:82d03004-aa1b-4f3e-92be-ae3d3e065f67;WS:3f67922b-56e7-448f-be48-a45dac0b8690"/>
+<rule id="cb685ca4-9d4a-4f23-9d06-061a4de29519" shortName="EC2" relation="ea1d356b-b715-4fb1-b575-a9971d548b13" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="PToBS:34fedf2a-eae1-4498-919b-a9c7533f506e"/>
+<rule id="d0fa1d6e-2ab9-4dfd-af00-a9e6615c3496" shortName="FC5" relation="99a7a35e-35b9-44bf-a61a-d1a5adb57d20" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="SIC:3cc4c491-767d-4e8a-80cf-52a400deddd9"/>
+<rule id="d266db18-b8bf-4a39-accc-3295480893e9" shortName="FC2" relation="f779a0a8-80de-4802-84c8-1b93454ac395" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="PDR:7e493f56-c950-4183-b672-cd0981e81260"/>
+<rule id="dd46a280-6d30-4757-8b17-e345d6395e98" shortName="FC6" relation="4c05103e-bb6b-4780-ba1d-0457dcacb7b3" resultId="RESULT:503063f9-0d11-4cf3-bd5a-b234949e4d71" initId="LVP:aeb0c255-f2fb-40f7-94f0-66c94da0f249"/>
+</rules>
+<constraints/>
+<classes>
+<class id="07df865d-479e-4ef8-a60f-a324605f8b0f" shortName="MEW" description="Monitoring and early warning (MEW)">
+<parameters>
+<parameter id="13a56669-ea50-4e7f-9c17-7ade6ea66bab" shortName="H" description="high wave" type="double"/>
+<parameter id="4a6816c4-dfd6-48c5-8df6-b4c417ba33ba" shortName="WHGR" description="wave height growth rate" type="double"/>
+<parameter id="522082a4-b027-4179-a401-99c3e53e08b5" shortName="SF" description="sensor fails" type="double"/>
+<parameter id="5863fc05-e5ae-4943-a412-8e28f629db68" shortName="WP" description="wave period" type="double"/>
+<parameter id="59c4c7e1-6ddc-4c2a-b29a-9d6330122ccc" shortName="WS" description="wind speed" type="double"/>
+<parameter id="a819f8e2-d156-46d1-a30f-a294032713bd" shortName="T" description="Time" type="double"/>
+<parameter id="b058ba32-faa0-4c1d-9f03-300d49d17bc8" shortName="WED" description="wave energy (H²) difference" type="double"/>
+<parameter id="eccc1206-26c2-4946-bf0c-ab6065c95766" shortName="DD" description="direction deviation" type="double"/>
+<parameter id="f922fcec-c4bf-401d-854a-1566d59c5f3f" shortName="D" description="Depth" type="double"/>
+</parameters>
+<rules/>
+<constraints/>
+<classes/>
+</class>
+<class id="68099f4d-c049-4252-bc9a-106eac75b8f8" shortName="RESULT">
+<parameters>
+<parameter id="503063f9-0d11-4cf3-bd5a-b234949e4d71" shortName="RESULT" type="string"/>
+</parameters>
+<rules/>
+<constraints/>
+<classes/>
+</class>
+<class id="7d644af7-88ab-4e08-aedb-2e557b0c16d4" shortName="PC" description="Physical constraints (PC)">
+<parameters>
+<parameter id="3f67922b-56e7-448f-be48-a45dac0b8690" shortName="WS" description="wind speed U10 " type="double"/>
+<parameter id="82d03004-aa1b-4f3e-92be-ae3d3e065f67" shortName="WC" description="wave celerity" type="double"/>
+<parameter id="95afc5fa-379a-41b1-8a71-7c2c3552637b" shortName="Re" description="Reynolds number Re=(H￼)/ν>1e6" type="double"/>
+<parameter id="da9d77f6-4d58-414b-9e97-086d70870777" shortName="AC" defaultValue="1.00" type="double"/>
+</parameters>
+<rules/>
+<constraints/>
+<classes/>
+</class>
+<class id="acd56ed7-29a8-41b8-9244-a521b7b6e0aa" shortName="FC" description="Forecast correction (FC)">
+<parameters>
+<parameter id="20dc2138-9aa8-456f-9b05-351908ba69e6" shortName="WS" description="wave steepness (H/L)" type="double"/>
+<parameter id="34d51add-532c-443d-ba27-14fd59ee3f8a" shortName="FT" description="during flood tide " type="double"/>
+<parameter id="3cc4c491-767d-4e8a-80cf-52a400deddd9" shortName="SIC" description="sea ice coverage" type="double"/>
+<parameter id="7e493f56-c950-4183-b672-cd0981e81260" shortName="PDR" description="pressure drop rate" type="double"/>
+<parameter id="aeb0c255-f2fb-40f7-94f0-66c94da0f249" shortName="LVP" description="large vessel (length>200m) passage " type="double"/>
+<parameter id="f034396d-3ece-4f56-ab5e-ab6a248fbb82" shortName="EBB" description="during ebb" type="double"/>
+</parameters>
+<rules/>
+<constraints/>
+<classes/>
+</class>
+<class id="d59d7566-2b6f-4d8b-8894-ce30477f0f80" shortName="EC" description="Equipment control （EC）">
+<parameters>
+<parameter id="289c8ab3-0e0a-4c21-9f34-9355362298c1" shortName="PF" description="platform_freeboard" type="double"/>
+<parameter id="34fedf2a-eae1-4498-919b-a9c7533f506e" shortName="PToBS" description="predicted tension exceeds 80% of breaking strength" type="double"/>
+<parameter id="35db82b9-9491-4399-8c59-2a42e411e1ff" shortName="CH" description="consecutive hour " type="double"/>
+<parameter id="6b1f4334-1989-4f55-8df1-81206ffd106b" shortName="WSstd" description="wave sensor std" type="double"/>
+<parameter id="a18e3180-19f8-4e05-a5eb-779ddcbb11d1" shortName="H" description="High wave" type="double"/>
+<parameter id="a8f346b1-187d-4d3a-97fe-3ba6b8c4c645" shortName="CP" description="consecutive predictions" type="double"/>
+<parameter id="f99f4788-4748-4bb8-b825-777799a558d4" shortName="P2hrWH" description="predicted 2hr wave height" type="double"/>
+</parameters>
+<rules/>
+<constraints/>
+<classes/>
+</class>
+<class id="f88594ff-0992-421a-b21d-eeddf78f498a" shortName="VFT" description="Verification and fault tolerance (VFT)">
+<parameters>
+<parameter id="1f97629b-391f-47eb-a10f-45baa1e123d5" shortName="TEM" description="temperature" type="double"/>
+<parameter id="a718e03d-1819-4a16-aa12-f0f5b9424336" shortName="WL" description="water level" type="double"/>
+<parameter id="fb4d73d8-3ba4-42e1-b774-78ee0ebde1ba" shortName="MSL" description="MSL" type="double"/>
+</parameters>
+<rules/>
+<constraints/>
+<classes/>
+</class>
+</classes>
+</class>
+<relations>
+<relation id="2d1d5d05-2a48-4681-855b-37bd8db6e458" shortName="MEW1" inObj="WS:double;WHGR:double" relationType="ifclause" description="wind speed >30m/s for 3min with wave height growth rate>0.5m/h (WS >30 &amp; WHGR > 0.5)" outObj="RESULT:string">if (WS > 30 &amp; WHGR > 0.5) {RESULT = 'Trigger red alert and activate emergency mooring';} else {RESULT = 'Normal';}</relation>
+<relation id="3c4bd0e6-105b-487d-ad6a-68595d0fa9f1" shortName="EC4" inObj="CH:double;WSstd:double" relationType="ifclause" outObj="RESULT:string">if (WSstd &lt; 0.1 &amp; CH == 1) {RESULT = 'Activate ultrasonic cleaning';} else {RESULT = 'Normal';}</relation>
+<relation id="43e03a25-498c-4317-b8f0-0f429eeb3f8d" shortName="VFT1" inObj="MSL:double;WL:double" relationType="ifclause" outObj="RESULT:string">if (WL &lt; MSL) {RESULT = 'Compensate H measurements by 0.1×tidal range';} else {RESULT = 'Normal';}</relation>
+<relation id="4c05103e-bb6b-4780-ba1d-0457dcacb7b3" shortName="FC6" inObj="LVP:double" relationType="ifclause" outObj="RESULT:string">if (LVP == 1) {RESULT = 'Add 0.3×ship_draft to predictions for 30min';} else {RESULT = 'Normal';}</relation>
+<relation id="540784ed-e989-4ddd-a1f1-304a2baf6fde" shortName="MEW4" inObj="WED:double;T:double" relationType="ifclause" outObj="RESULT:string">if (WED > 4 &amp; T &lt;= 10) {RESULT = 'Initiate manual verification';} else {RESULT = 'Normal';}</relation>
+<relation id="57a64dac-9194-4bf0-add6-10073ae41ea9" shortName="MEW3" inObj="SF:double" relationType="ifclause" outObj="RESULT:string">if (SF >= 3) {RESULT = 'Switch to satellite data and reduce confidence by 30%';} else {RESULT = 'Normal';}</relation>
+<relation id="79ae231c-d465-4d98-a12e-cd73eaf3f366" shortName="PC3" inObj="Re:double" relationType="ifclause" outObj="RESULT:string">if (Re > Math.exp(6)) {RESULT = 'Activate turbulence mode correction';} else {RESULT = 'Normal';}</relation>
+<relation id="96422f31-56df-456e-ad33-693fac1d193c" shortName="MEW5" inObj="DD:double;WP:double" relationType="ifclause" outObj="RESULT:string">if (WP > 15 &amp; DD &lt; 30) {RESULT = 'Issue rip current alert';} else {RESULT = 'Normal';}</relation>
+<relation id="96974e6c-d1b8-48f5-9594-07e982cd0a68" shortName="FC4" inObj="EBB:double" relationType="ifclause" outObj="RESULT:string">if (EBB == 1) {RESULT = 'decrease 8%';} else {RESULT = 'Normal';}</relation>
+<relation id="99a7a35e-35b9-44bf-a61a-d1a5adb57d20" shortName="FC5" inObj="SIC:double" relationType="ifclause" outObj="RESULT:string">if (SIC > 60) {RESULT = 'Multiply prediction by max(0.5,1-0.008×ice_thickness)';} else {RESULT = 'Normal';}</relation>
+<relation id="b2d1a743-62fd-4f88-b241-387a61db2151" shortName="FC3" inObj="FT:double" relationType="ifclause" outObj="RESULT:string">if (FT == 1) {RESULT = 'Increase predictions by 10%';} else {RESULT = 'Normal';}</relation>
+<relation id="b8cca9bb-ba16-429c-beaa-52e8d2b1aa73" shortName="FC1" inObj="WS:double" relationType="ifclause" outObj="RESULT:string">if (WS > 0.05) {RESULT = 'Apply ΔH:-0.2×(H/L-0.05)×H correction';} else {RESULT = 'Normal';}</relation>
+<relation id="c0e2ed5e-4429-4fae-8f43-dbe5ca6d2589" shortName="VFT2" inObj="TEM:double" relationType="ifclause" outObj="RESULT:string">if (TEM &lt; -5) {RESULT = 'Multiply measured H by 1/(1-0.02×ice_thickness)';} else {RESULT = 'Normal';}</relation>
+<relation id="c99a037a-786d-43fb-a8f4-255fa8b0af4e" shortName="PC1" inObj="AC:double" relationType="ifclause" outObj="RESULT:string">if (AC == 1) {RESULT = 'Cap predicted H at min(0.8×depth, 2×Hs)';} else {RESULT = 'Normal';}</relation>
+<relation id="cdf03862-7c67-4506-bdd3-2dcfd803e346" shortName="PC2" inObj="WC:double;WS:double" relationType="ifclause" outObj="RESULT:string">if (WC &lt; 0.8 &amp; WS == 10) {RESULT = 'Recalculate energy input terms';} else {RESULT = 'Normal';}</relation>
+<relation id="dc5e0695-91b8-41ff-a924-b21da924eb6b" shortName="EC1" inObj="H:double" relationType="ifclause" outObj="RESULT:string">if (H > 3) {RESULT = 'Shut down wave energy converters and activate hydraulic lock';} else {RESULT = 'Normal';}</relation>
+<relation id="ea1d356b-b715-4fb1-b575-a9971d548b13" shortName="EC2" inObj="PToBS:double" relationType="ifclause" outObj="RESULT:string">if (PToBS > 80) {RESULT = 'Release 50m anchor chain';} else {RESULT = 'Normal';}</relation>
+<relation id="f65a126c-a72c-4917-8673-16be08243522" shortName="EC3" inObj="PF:double;CP:double;H:double" relationType="ifclause" outObj="RESULT:string">if (H > PF -2 &amp; CP == 3) {RESULT = 'Initiate personnel evacuation';} else {RESULT = 'Normal';}</relation>
+<relation id="f779a0a8-80de-4802-84c8-1b93454ac395" shortName="FC2" inObj="PDR:double" relationType="ifclause" outObj="RESULT:string">if (PDR > 5) {RESULT = 'Add pressure_diff×0.05m/hPa to prediction';} else {RESULT = 'Normal';}</relation>
+<relation id="fb77ce01-41d9-4522-80e1-e514be745437" shortName="EC5" inObj="P2hrWH:double" relationType="ifclause" outObj="RESULT:string">if (P2hrWH > 1) {RESULT = 'Switch energy storage to discharge mode';} else {RESULT = 'Normal';}</relation>
+<relation id="fb9fcfca-7a75-4941-8b9c-52c1d67ed3db" shortName="MEW2" inObj="D:double;H:double" relationType="ifclause" description="H>0.78 and depth&lt;20m （H > 0.78 &amp; D &lt; 20）" outObj="RESULT:string">if (H > 0.78 &amp; D &lt; 20) {RESULT = 'Override predicted wave height to 0.7×depth';} else {RESULT = 'Normal';}</relation>
+</relations>
+</model>
